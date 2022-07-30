@@ -1,0 +1,28 @@
+.nav {
+    padding: 8px;
+    margin: 8px;
+    display: flex;
+    flex-direction: row;
+    text-shadow: 4;
+    background-color: aqua;
+
+}
+
+.nasa-logo {
+    size: 16px;
+    width: 88px;
+    height: 88px;
+    text-align: center;
+
+}
+.home-body{
+    height: 100%;
+    background-color: rgb(180, 182, 184);
+    padding: 32px;
+    background-image:url(https://www.nasa.gov/sites/default/files/thumbnails/image/msr_graphic_-_arm.jpg)
+}
+.bording-pass{
+    width: 100%;
+    height: 460px;
+   
+}
